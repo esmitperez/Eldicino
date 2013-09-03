@@ -49,6 +49,7 @@ Inspirado en http://playground.arduino.cc/Code/StopWatchClass y http://arduino.c
 
 // initialize the library with the numbers of the interface pins
 //LiquidCrystal lcd(7, 8, 9, 10, 11, 12);
+// This library is NOT the original, use the one from http://learn.adafruit.com/i2c-spi-lcd-backpack/downloads
 LiquidCrystal lcd(0); // Adafruit's LCD lib for I2C
 
 // JOYSTICK
