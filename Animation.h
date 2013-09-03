@@ -1,5 +1,5 @@
 /*
-  Author:  Esmit Perez
+  Author:  Esmit Perez  (@esmitperez)
   Fecha:   Jul 10 2013
 
   Inspirado en http://playground.arduino.cc/Code/StopWatchClass y http://arduino.cc/en/Hacking/LibraryTutorial
