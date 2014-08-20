@@ -11,6 +11,8 @@ Eldicino
 
 Eldicino - An arduino game
 
+Vine: https://vine.co/v/hmeHp9I6lun
+
 
 Parts
 =====
