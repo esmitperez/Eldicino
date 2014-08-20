@@ -2,7 +2,7 @@
 #Twitter: @esmitperez
 #Fecha: Sep 2013
 #
-#Copyright (c) 2013 Esmit Pérez (@esmiterez)
+#Copyright (c) 2013 Esmit Pérez (@esmitperez)
 #http://www.apache.org/licenses/LICENSE-2.0
 
 
